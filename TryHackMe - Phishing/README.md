@@ -1,4 +1,4 @@
-# TryHackMe Phishing Simulation Investigation
+# TryHackMe - Phishing Simulation Investigation
 
 ## Overview
 
